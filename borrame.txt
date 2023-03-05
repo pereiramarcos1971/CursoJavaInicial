@@ -1,7 +1,3 @@
 prueba github
 cambio aplicado remotamente
-<<<<<<< HEAD
-nuevo cambio local distinto al cambio remoto
-=======
 nuevo cambio remoto
->>>>>>> 4a9c574f0feff974f39df4fa5b2c0a7c07517b8c
