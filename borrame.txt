@@ -1,2 +1,3 @@
 prueba github
 cambio aplicado remotamente
+nuevo cambio local distinto al cambio remoto
